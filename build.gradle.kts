@@ -1,5 +1,6 @@
 plugins {
     kotlin("jvm") version "1.9.21"
+    id("org.jlleitschuh.gradle.ktlint") version "12.0.2"
 }
 
 group = "hr.dzalac.aoc23"
